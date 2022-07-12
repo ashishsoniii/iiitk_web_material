@@ -1,0 +1,99 @@
+{
+    "basics": {
+        "name": "Ashish Soni",
+        "label": "Student",
+        "picture": "https://github.com/ashishsoniii/iiitk_web_material/blob/main/soni.jpg?raw=true",
+        "email": "2021kucp1003@iiitkota.ac.in",
+        "phone": "+919660688940",
+        "website": " ",
+        "summary": "Hello folks! I like exploring different fields & playing with technologies that help me to expand my knowledge and upgrade my skills.",
+        "location": {
+            "address": "Jaipur",
+            "postalCode": "302021",
+            "city": "jaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Ashishsoni_1",
+                "url": "https://twitter.com/Ashishsoni_1"
+            },
+            {
+                "network": "Github",
+                "username": "ashishsoniii",
+                "url": "https://github.com/ashishsoniii"
+            },
+            {
+                "network": "linkedin",
+                "username": "ashishsoniii",
+                "url": "https://www.linkedin.com/in/ashishsoniii/"
+            },
+            {
+                "network": "Instagram",
+                "username": "ashish.soniii",
+                "url": "https://www.instagram.com/ashish.soniii/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIIT KOTA",
+            "position": "Social Media Student Coordinator",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Working as a content editor for IIIT Kota official social media handle!"
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.1",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    
+    "skills": [
+        {
+            "name": "Development",
+            "level": "Master",
+            "keywords": [
+                "C/C++",
+                "Python",
+                "Competative Programming",
+                "HTML",
+                "CSS",
+                "Git"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Badminton",
+                "Cricket"
+            ]
+        },
+        {
+            "name": "Fitness",
+            "keywords": [
+                "gymnasium"
+            ]
+        }
+    ]
+}
